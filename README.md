@@ -43,7 +43,7 @@ picture here
 - Collaborated with frontend devs for seamless API integration
 
 **Worked closely with**:
--front-end devs
+- front-end devs
 - Devops
 - UIUX designers
 - fellow backend devolopers
