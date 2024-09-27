@@ -14,8 +14,8 @@ Tools/softwares:cloudinary,postman,vscode,git/github
 ### Projects
 
 ###Contact Information
-phone number: 09135953526
-email: uffangduncan@gmail.com
-linkedin:
-Twitter:
-Facebook?
+-phone number: 09135953526
+-email: uffangduncan@gmail.com
+-linkedin:
+-Twitter:
+-Facebook:
