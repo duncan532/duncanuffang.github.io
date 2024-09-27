@@ -65,11 +65,9 @@ picture here
 - progress tracking , etc.
   
 
-
-
 ### Contact Information
 - phone number: 09135953526
 - email: uffangduncan@gmail.com
 - linkedin:
 - Twitter:
-- Facebook:
+- [Facebook](https://facebook.com/uffangduncan)
