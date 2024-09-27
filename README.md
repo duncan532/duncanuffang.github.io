@@ -23,7 +23,7 @@ Tools/softwares:
 
 - multiplication table generator
 
-![imagepath](images/wordwiz2image34.jpg)
+![imagepath](images/Screenshot-2git.jpg)
 
 - show pic,video nd stuff
 - Random password generator
