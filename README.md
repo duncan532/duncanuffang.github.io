@@ -62,7 +62,7 @@ picture here
 - user_authentication
 - progress tracking , etc.
   
-project link here
+
 
 
 ### Contact Information
