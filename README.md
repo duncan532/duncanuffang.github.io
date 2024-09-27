@@ -22,7 +22,7 @@ Tools/softwares:
 ###### Developed 10+ mini projects
 
 - multiplication table generator
-![video Description](images/wordwiz2image34.jpg)
+![video Description](Screenshot 2024-09-2git.jpg)
 
 - show pic,video nd stuff
 - Random password generator
