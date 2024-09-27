@@ -25,8 +25,11 @@ Tools/softwares:
 
 ![imagepath](images/Screenshot-2git.jpg)
 
-- show pic,video nd stuff
 - Random password generator
+
+![imagepath](images/gitpic2.jpg)
+
+  
 - demo banking system
 - quiz grading functions
 - basic calculator api
