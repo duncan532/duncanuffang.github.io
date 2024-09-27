@@ -22,6 +22,9 @@ Tools/softwares:
 ###### Developed 10+ mini projects
 
 - multiplication table generator
+
+![imagepath](images/wordwiz2image34.jpg)
+
 - show pic,video nd stuff
 - Random password generator
 - demo banking system
