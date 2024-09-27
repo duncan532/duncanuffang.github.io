@@ -47,6 +47,7 @@ picture here
 - Devops
 - UIUX designers
 - fellow backend devolopers
+  
 **Tools/Softwares used**: 
 - fastapi
 - cloudinary
@@ -56,6 +57,7 @@ picture here
 - sqlite(for testing)
 - postgresql(during deployment)
 - sqlalchemy and others.
+  
 **Features_include**:
 - games
 - quizzes
