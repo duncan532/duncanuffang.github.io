@@ -1,31 +1,36 @@
 # Backend Developer
 
 ### Skills and Technologies
-Programming languages:Python
-Frame-works:Fastapi,Sqlalchemy
+Programming languages:
+- Python
+Frame-works:
+- Fastapi
+- Sqlalchemy
 Databases:Postgresql
-Tools/softwares:cloudinary,postman,vscode,git/github
+Tools/softwares:
+- cloudinary
+- postman
+- vscode
+- git/github
 
 ### Work Experience
-Kode-camp 4.0 Backend Developer | 01 May - 31 August >>
-Built mini project that solve basic user problems and strengthened my programming skill:
+- Kode-camp 4.0 Backend Developer | 01 May - 31 August >>
+- Built mini project that solve basic user problems and strengthened my programming skill:
 
 multiplication table generator
-show pic,video nd stuff
+- show pic,video nd stuff
 
-Random password generator
+- Random password generator
 
-demo banking system
+- demo banking system
 
-quiz grading functions
+- quiz grading functions
 
-basic calculator api
+- basic calculator api
 
-Contact info api 
+- Contact info api 
 
-profile picture api
-
-and many more..
+- profile picture api , and many more..
 
 
 
