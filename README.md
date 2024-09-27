@@ -23,6 +23,7 @@ Tools/softwares:
 
 - multiplication table generator
 ![video Description](images/wordwiz2image34.jpg)
+
 - show pic,video nd stuff
 - Random password generator
 - demo banking system
