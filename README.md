@@ -35,7 +35,7 @@ Tools/softwares:
 ##### Word_wiz_bee
 Word_wiz_bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
 
-![Image Description](images/image.png)
+![Image Description](images/wordwiz2image34.jpg)
 
 - Developed backend API using FastAPI and SQLAlchemy
 - Integrated payment gateway with Paystack
@@ -65,8 +65,8 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 - user_authentication
 - progress tracking , etc.
   
-  [![Image Description](image_url)](images/accounts.jpg)
-  link here 
+  
+  [Word-wiz-link](https://word-wiz-be-bsws.onrender.com/docs) 
 
 ### Contact Information
 - phone number: 09135953526
