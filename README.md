@@ -70,7 +70,7 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 
 ### Contact Information
 - phone number: 09135953526
-- [email](uffangduncan@gmail.com)
+- email:uffangduncan@gmail.com
 - [linkedin:](https://www.linkedin.com/in/duncan-uffang-bbb562304/)
 - [Twitter](https://x.com/DUffang40559)
 - [Facebook](https://web.facebook.com/profile.php?id=100075996586638)
