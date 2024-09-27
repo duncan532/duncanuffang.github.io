@@ -36,7 +36,7 @@ Tools/softwares:
 ### Projects:
 ##### Word_wiz_bee
 Word_wiz_bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
-
+![video Description](images/Screenshot 2024-09-2git.jpg)
 
 - Developed backend API using FastAPI and SQLAlchemy
 - Integrated payment gateway with Paystack
