@@ -30,8 +30,6 @@ Tools/softwares:
 ![imagepath](images/gitpic2.jpg)
 
   
-- demo banking system
-- quiz grading functions
 - basic calculator api
 - Contact info api 
 - profile picture api , and many more..
