@@ -3,10 +3,14 @@
 ### Skills and Technologies
 Programming languages:
 - Python
+  
 Frame-works:
 - Fastapi
 - Sqlalchemy
-Databases:Postgresql
+
+Databases:
+- Postgresql
+
 Tools/softwares:
 - cloudinary
 - postman
