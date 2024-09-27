@@ -19,7 +19,7 @@ Tools/softwares:
 
 ### Work Experience
 ##### Kode-camp 4.0 Backend Developer | 01 May - 31 August >>
-####### Developed 10+ mini projects
+###### Developed 10+ mini projects
 
 - multiplication table generator
 - show pic,video nd stuff
