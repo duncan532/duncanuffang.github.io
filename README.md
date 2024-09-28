@@ -3,7 +3,7 @@
 ### Skills and Technologies
 Programming languages:
 - Python
-- 
+
 Frame-works:
 - Fastapi
 - Sqlalchemy
