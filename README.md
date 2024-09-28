@@ -34,8 +34,11 @@ Tools/softwares:
 
 ![imagepath](images/app3.jpg)
   
-- Contact info api 
-- profile picture api , and many more..
+- profile picture api
+
+![imagepath](images/chvygud.jpg)
+  
+- and lots more..
 
 
 ### Projects:
