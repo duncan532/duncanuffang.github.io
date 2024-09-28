@@ -1,10 +1,5 @@
-# Duncan Uffang
-## Backend (Python FastAPI) Developer
-
-[View My GitHub Profile](https://github.com/duncan532)
-
 # Backend Developer
-
+[View My GitHub Profile](https://github.com/duncan532)
 ### Skills and Technologies
 Programming languages:
 - Python
