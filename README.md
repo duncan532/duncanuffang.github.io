@@ -3,7 +3,7 @@
 ### Skills and Technologies
 Programming languages:
 - Python
-  
+- 
 Frame-works:
 - Fastapi
 - Sqlalchemy
@@ -39,7 +39,6 @@ Tools/softwares:
 ![imagepath](images/chvygud.jpg)
   
 - and lots more..
-
 
 ### Projects:
 ##### Word_wiz_bee
