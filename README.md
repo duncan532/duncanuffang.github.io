@@ -1,7 +1,7 @@
 # Duncan Uffang
 ## Backend (Python FastAPI) Developer
 
-[View My GitHub Profile]((link unavailable))
+[View My GitHub Profile](https://github.com/duncan532)
 
 # Backend Developer
 
