@@ -73,9 +73,28 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 - quizzes
 - user_authentication
 - progress tracking , etc.
-  
-  
-  [Word-wiz-link](https://word-wiz-be-bsws.onrender.com/docs) 
+  [Word-wiz-link](https://word-wiz-be-bsws.onrender.com/docs)
+
+##### Skillet(display your expertise)
+Skillet is a personal project that i am currently working on,it is a professional platform for users to showcase their projects, skills, and experiences.It allows users to create a personalized profile, upload projects, and share their work with others.
+
+**key featutes**:
+- commenting
+- searching
+- filtering and sorting projects
+- media upload and management.
+- Resume showcase
+- Real-time Notifications(signup,forgot password)
+
+**Tools/Softwares used**: 
+- fastapi
+- cloudinary
+- smtp_mail_services
+- git/github
+- sqlite(for testing)
+- postgresql(during deployment)
+- sqlalchemy and others.
+![imagepath](images/wordwiz2image34.jpg)
 
 ### Contact Information
 - phone number: 09135953526
