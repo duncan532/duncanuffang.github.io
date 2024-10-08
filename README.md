@@ -47,7 +47,6 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 ![imagepath](images/wordwiz2image34.jpg)
 
 - Developed backend API using FastAPI and SQLAlchemy
-- Integrated payment gateway with Paystack
 - Implemented user authentication and authorization
 - Designed database schema using PostgreSQL
 - Collaborated with frontend devs for seamless API integration
@@ -61,7 +60,6 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 **Tools/Softwares used**: 
 - fastapi
 - cloudinary
-- paystack
 - smtp_mail_services
 - git/github
 - sqlite(for testing)
