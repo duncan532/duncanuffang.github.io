@@ -78,6 +78,8 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 ##### Skillet(display your expertise)
 Skillet is a personal project that i am currently working on,it is a professional platform for users to showcase their projects, skills, and experiences.It allows users to create a personalized profile, upload projects, and share their work with others.
 
+![imagepath](images/skillet_logo.jpg)
+
 **key featutes**:
 - commenting
 - searching
@@ -94,7 +96,8 @@ Skillet is a personal project that i am currently working on,it is a professiona
 - sqlite(for testing)
 - postgresql(during deployment)
 - sqlalchemy and others.
-![imagepath](images/wordwiz2image34.jpg)
+  
+[Skillet-link](https://skillet-api.onrender.com/docs)
 
 ### Contact Information
 - phone number: 09135953526
