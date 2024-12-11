@@ -73,6 +73,7 @@ Word_wiz_bee is a web-based spelling application designed to improve vocabulary 
 - progress tracking , etc.
   [Word-wiz-link](https://word-wiz-be-bsws.onrender.com/docs)
 
+
 ##### Skillet(display your expertise)
 Skillet is a personal project that i am currently working on,it is a professional platform for users to showcase their projects, skills, and experiences.It allows users to create a personalized profile, upload projects, and share their work with others.
 
@@ -86,17 +87,33 @@ Skillet is a personal project that i am currently working on,it is a professiona
 - Resume showcase
 - Real-time Notifications(signup,forgot password)
 
+
+##### Kodecamp website
+I developed an informational website with a dynamic admin dashboard, enabling seamless control over information display. This robust platform allows administrators to effortlessly manage and update content in real-time, ensuring an engaging user experience.
+
+![imagepath](images/skillet_logo.jpg)
+
+**key featutes**:
+- Dynamic Admin Dashboard
+- Real-time Content Updates
+- Content Management System (CMS)
+- media upload and management.
+- earch Engine Optimization (SEO)
+-the apis are not yet live and the link will be posted as soon as possible
+
+
+
 **Tools/Softwares used**: 
 - fastapi
 - cloudinary
 - smtp_mail_services
 - git/github
 - sqlite(for testing)
+- postman(for testing)
 - postgresql(during deployment)
 - sqlalchemy and others.
-  
-[Skillet-link](https://skillet-api.onrender.com/docs)
 
+  
 ### Contact Information
 - phone number: 09135953526
 - email:uffangduncan@gmail.com
