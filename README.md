@@ -91,7 +91,7 @@ Skillet is a personal project that i am currently working on,it is a professiona
 ##### Kodecamp website
 I developed an informational website with a dynamic admin dashboard, enabling seamless control over information display. This robust platform allows administrators to effortlessly manage and update content in real-time, ensuring an engaging user experience.
 
-![imagepath](images/skillet_logo.jpg)
+![imagepath](images/242716850_126190696426465_6183149075512365490_n.jpg)
 
 **key featutes**:
 - Dynamic Admin Dashboard
@@ -113,7 +113,6 @@ I developed an informational website with a dynamic admin dashboard, enabling se
 - postgresql(during deployment)
 - sqlalchemy and others.
 
-  
 ### Contact Information
 - phone number: 09135953526
 - email:uffangduncan@gmail.com
