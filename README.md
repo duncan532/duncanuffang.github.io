@@ -18,7 +18,7 @@
 
 ## 📌 Table of Contents  
 1. [About Me](#about-me)  
-2. [Skills & Technologies](#skills-And-technologies)  
+2. [Skills & Technologies](#skills-and-technologies)  
 3. [Projects](#projects)  
 4. [Work Experience](#work-experience)  
 5. [Contact](#contact)  
@@ -36,7 +36,7 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 
 ---
 
-## 🛠 Skills And Technologies  
+## 🛠 Skills and Technologies  
 
 ### 💻 Programming Languages  
 - **Python** – Proficient in backend development and API design
