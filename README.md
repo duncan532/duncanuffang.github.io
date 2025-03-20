@@ -1,5 +1,60 @@
-# Backend Developer
-[View My GitHub Profile](https://github.com/duncan532)
+**Software Developer | FastAPI | PostgreSQL | Cloud Services** 
+<p align="center">
+  <a href="https://github.com/duncan532">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub Profile">
+  </a>
+  <a href="https://www.linkedin.com/in/duncan-uffang-bbb562304/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/DuncanUffang">
+    <img src="https://img.shields.io/badge/X-Follow-blue?logo=X" alt="Twitter (X)">
+  </a>
+  <a href="mailto:uffangduncan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" alt="Email">
+  </a>
+</p>
+
+---
+
+## 📌 Table of Contents  
+1. [About Me](#about-me)  
+2. [Skills & Technologies](#skills--technologies)  
+3. [Projects](#projects)  
+4. [Work Experience](#work-experience)  
+5. [Contact](#contact)  
+
+---
+
+## 📖 About Me  
+I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and API security. Passionate about building scalable and efficient backend solutions. I prioritize the security and reliability of every website or mobile app I work on, ensuring that each project achieves its desired impact.
+
+
+- 🏗 **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, OAuth, JWT  
+- ☁️ **Cloud:** Amazon S3, Cloudinary  
+- 🔍 **API Testing:** Pytest, Postman  
+
+
+fastapi pic here, post gres and mongo db pic here
+what do i have to offer 
+reach me at 
+hore me at 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
 ### Skills and Technologies
 Programming languages:
 - Python
