@@ -32,12 +32,15 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 - 🔹 **Fast, secure, and well-documented APIs**  
 - 🔹 **Scalable database architectures**  
 - 🔹 **Cloud-based storage & deployment solutions**  
-- 🔹 **Authentication & security implementation (OAuth, JWT)** 
+- 🔹 **Authentication & security implementation (OAuth, JWT)**
+  
+## 🏗 Tech Stack
+- **Frameworks & Libraries:** FastAPI, SQLAlchemy, SQLModel, Beanie  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Cloud Services:** Amazon S3, Cloudinary  
+- **API Testing:** Pytest, Postman  
+- **Security:** OAuth, JWT, API Security Best Practices  
 
-- 🏗 **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, SqlModel, Beanie  
-- ☁️ **Cloud:** Amazon S3, Cloudinary  
-- 🔍 **API Testing:** Pytest, Postman  
-- 🔍 **Security::** OAuth, JWT, API Security 
 
 
 
