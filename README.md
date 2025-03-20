@@ -18,7 +18,7 @@
 
 ## 📌 Table of Contents  
 1. [About Me](#about-me)  
-2. [Skills & Technologies](#skills^technologies)  
+2. [Skills & Technologies](#skills-and-technologies)  
 3. [Projects](#projects)  
 4. [Work Experience](#work-experience)  
 5. [Contact](#contact)  
@@ -33,52 +33,43 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 - 🔹 **Scalable database architectures**  
 - 🔹 **Cloud-based storage & deployment solutions**  
 - 🔹 **Authentication & security implementation (OAuth, JWT)**
-  
-## 🏗 Tech Stack
+
+---
+
+## 🛠 Skills And Technologies  
+
+### 💻 Programming Languages  
+- **Python** – Proficient in backend development and API design
 
 ### 🚀 Frameworks & Libraries  
-**FastAPI, SQLAlchemy, SQLModel, Beanie**  
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="100"/>  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Postgresql_elephant.svg" alt="SQLAlchemy" width="100"/>  
+- **FastAPI** – High-performance web framework for APIs  
+- **SQLAlchemy & SqlModel** – ORM & database management  
+- **Beanie** – ODM for MongoDB  
 
 ### 🗄 Databases  
-**PostgreSQL, MySQL, MongoDB**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Postgresql_elephant.svg" alt="PostgreSQL" width="100"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="100"/>  
-<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="100"/>  
+- **PostgreSQL** – Relational database management  
+- **MySQL** – SQL-based database system  
+- **MongoDB** – NoSQL database for scalable applications  
 
 ### ☁️ Cloud Services  
-**Amazon S3, Cloudinary**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon_Web_Services_Logo.svg" alt="AWS S3" width="100"/>  
-<img src="https://res.cloudinary.com/cloudinary/image/upload/v1664364857/logo-cloudinary-white-blue_ydre5v.svg" alt="Cloudinary" width="100"/>  
+- **Amazon S3** – Cloud storage solutions  
+- **Cloudinary** – Media storage & management  
 
-### 🔍 API Testing  
-**Pytest, Postman**  
-<img src="https://avatars.githubusercontent.com/u/12941761?s=200&v=4" alt="Pytest" width="100"/>  
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100"/>  
+### 🔍 API Testing & Documentation  
+- **Postman** – API testing & automation  
+- **Pytest** – Unit testing for Python applications  
 
 ### 🔒 Security  
-**OAuth, JWT, API Security Best Practices**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Oauth_logo.svg/1200px-Oauth_logo.svg.png" alt="OAuth" width="100"/>  
-<img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="100"/>  
+- **OAuth & JWT** – Secure authentication & authorization  
+- **API Security Best Practices** – Preventing vulnerabilities  
 
-
-
-
-
-fastapi pic here, post gres and mongo db pic here
-
+### 🛠 Development Tools  
+- **Git & GitHub** – Version control & collaboration  
+- **VS Code** – Code editor of choice  
+- **Docker** – Containerization for scalable apps  
 
 ---
 
-## 🔧 Skills & Technologies  
-- **Programming Languages:** Python  
-- **Frameworks:** FastAPI, SQLAlchemy  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Tools & Services:** Git, GitHub, Cloudinary, AWS S3, Postman  
-
----
-what do i have to offer 
 reach me at 
 hore me at 
 
