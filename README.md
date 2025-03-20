@@ -18,9 +18,9 @@
 
 ## 📌 Table of Contents  
 1. [About Me](#about-me)  
-2. [Skills & Technologies](#skills-and-technologies)  
-3. [Projects](#projects)  
-4. [Work Experience](#work-experience)  
+2. [Skills & Technologies](#skills-and-technologies)
+3. [Work Experience](#work-experience)  
+4. [Projects](#projects)  
 5. [Contact](#contact)  
 
 ---
@@ -66,104 +66,63 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 ### 🛠 Development Tools  
 - **Git & GitHub** – Version control & collaboration  
 - **VS Code** – Code editor of choice  
-- **Docker** – Containerization for scalable apps  
 
 ---
 
-reach me at 
-hore me at 
+## 💼 Work Experience  
+### 🏢 **KodeHauz Solutions**  
+📍 *38 Afaha Uqua, Eket, Akwa Ibom, Nigeria*  
+**Backend Developer Intern (Oct 2024 – Jan 2025)**  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Developed and maintained **scalable REST APIs** using FastAPI  
+- Implemented **OAuth & JWT authentication** for secure user access  
+- Designed and optimized **PostgreSQL databases** using sqlmodel
+- Provided **technical support**, improving user satisfaction and system efficiency  
+- Collaborated with cross-functional teams to develop **new features & updates**  
+- Built internal tools to **streamline bug tracking** and **enhance project management**  
+- Ensured **on-time delivery** of high-quality backend solutions 
 
 ---
 
-Programming languages:
-- Python
 
-Frame-works:
-- Fastapi
-- Sqlalchemy
+## 📌 Projects
 
-Databases:
-- Postgresql
-
-Tools/softwares:
-- cloudinary
-- postman
-- vscode
-- git/github
-
-### Work Experience
-##### Kode-camp 4.0 Backend Developer | 01 May - 31 August >>
-###### Developed 20+ mini projects
-
-- multiplication table generator
-
-![imagepath](images/Screenshot-2git.jpg)
-
-- Random password generator
-
-![imagepath](images/gitpic2.jpg)
-
-  
-- basic calculator api
-
-![imagepath](images/app3.jpg)
-  
-- profile picture api
-
-![imagepath](images/chvygud.jpg)
-  
-- and lots more..
-
-### Projects:
-##### Word_wiz_bee
-Word_wiz_bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
-
+### 🐝 WordWiz Bee  
+WordWiz Bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
 ![imagepath](images/wordwiz2image34.jpg)
 
-- Developed backend API using FastAPI and SQLAlchemy
-- Implemented user authentication and authorization
-- Designed database schema using PostgreSQL
-- Collaborated with frontend devs for seamless API integration
+- Developed a **robust backend API** using **FastAPI** and **SQLAlchemy**  
+- Implemented **user authentication & authorization** with **OAuth & JWT**  
+- Designed an optimized **PostgreSQL database schema** for efficient data management  
+- Collaborated with **frontend developers, UI/UX designers, and DevOps** to ensure seamless integration  
+- Integrated **game mechanics and quizzes** to make learning interactive  
+- Built a **progress tracking system**, allowing users to monitor their improvement  
 
-**Worked closely with**:
-- front-end devs
-- Devops
-- UIUX designers
-- fellow backend devolopers
-  
-**Tools/Softwares used**: 
-- fastapi
-- cloudinary
-- smtp_mail_services
-- git/github
-- sqlite(for testing)
-- postgresql(during deployment)
-- sqlalchemy and others.
-  
-**Features_include**:
-- games
-- quizzes
-- user_authentication
-- progress tracking , etc.
-  [Word-wiz-link](https://word-wiz-be-bsws.onrender.com/docs)
+🔗 **Live Link**: [WordWiz Bee API Docs](https://dev.wordwiz.kodehauz.dev/)  
 
 
-##### Skillet(display your expertise)
+### 🤝 Collaboration  
+Worked closely with:  
+- **Frontend Developers** – API integration  
+- **DevOps Engineers** – Deployment & CI/CD  
+- **UI/UX Designers** – Ensuring user-friendly experience  
+- **Backend Developers** – Code reviews & database optimization  
+
+### 🛠 Tech Stack  
+- **FastAPI**, **SQLAlchemy**, **PostgreSQL**, **SQLite** (testing)  
+- **Cloudinary** – Media storage  
+- **SMTP Mail Services** – Email notifications  
+- **Git & GitHub** – Version control  
+
+### 🔥 Key Features  
+- 🎮 **Interactive Games & Quizzes** – Engaging spelling challenges  
+- 🔑 **User Authentication** – Secure login & registration (OAuth, JWT)  
+- 📊 **Progress Tracking** – Personalized learning analytics  
+
+
+
+
+##### Skillet(display your expertise) in progress
 Skillet is a personal project that i am currently working on,it is a professional platform for users to showcase their projects, skills, and experiences.It allows users to create a personalized profile, upload projects, and share their work with others.
 
 ![imagepath](images/skillet_logo.jpg)
@@ -257,23 +216,12 @@ _Professional platform for showcasing projects & skills._
 
 ![Skillet](images/skillet_logo.jpg)  
 
----
 
-## 💼 Work Experience  
-### 🏢 **Kode-Hauz Solutions**  
-**Backend Developer Intern (Oct 2024 – Jan 2025)**  
-- Built scalable REST APIs using FastAPI  
-- Integrated OAuth & JWT for authentication  
-- Worked with SQLAlchemy & PostgreSQL  
 
-### 🏢 **KodeCamp 4.0**  
-**Backend Developer (May 2024 – Aug 2024)**  
-- Developed **20+ mini-projects** including:  
-  ✅ Multiplication Table Generator  
-  ✅ Random Password Generator  
-  ✅ Profile Picture API  
 
----
+reach me at 
+hore me at 
+
 
 ## 📞 Contact  
 📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
