@@ -28,13 +28,31 @@
 ## 📖 About Me  
 I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and API security. Passionate about building scalable and efficient backend solutions. I prioritize the security and reliability of every website or mobile app I work on, ensuring that each project achieves its desired impact.
 
+## 🚀 What I Offer:
+- 🔹 **Fast, secure, and well-documented APIs**  
+- 🔹 **Scalable database architectures**  
+- 🔹 **Cloud-based storage & deployment solutions**  
+- 🔹 **Authentication & security implementation (OAuth, JWT)** 
 
-- 🏗 **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, OAuth, JWT  
+- 🏗 **Tech Stack:** FastAPI, PostgreSQL, SQLAlchemy, SqlModel, Beanie  
 - ☁️ **Cloud:** Amazon S3, Cloudinary  
 - 🔍 **API Testing:** Pytest, Postman  
+- 🔍 **Security::** OAuth, JWT, API Security 
+
 
 
 fastapi pic here, post gres and mongo db pic here
+
+
+---
+
+## 🔧 Skills & Technologies  
+- **Programming Languages:** Python  
+- **Frameworks:** FastAPI, SQLAlchemy  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Tools & Services:** Git, GitHub, Cloudinary, AWS S3, Postman  
+
+---
 what do i have to offer 
 reach me at 
 hore me at 
@@ -174,3 +192,78 @@ I developed an informational website with a dynamic admin dashboard, enabling se
 - [linkedin:](https://www.linkedin.com/in/duncan-uffang-bbb562304/)
 - [Twitter](https://x.com/DUffang40559)
 - [Facebook](https://web.facebook.com/profile.php?id=100075996586638)
+
+
+
+
+
+---
+
+## 📞 Contact  
+📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
+📞 Phone: +234 913 595 3526  
+🔗 [LinkedIn](https://www.linkedin.com/in/duncan-uffang-bbb562304/) | [Twitter](https://x.com/DUffang40559) | [GitHub](https://github.com/duncan532)  
+
+---
+
+
+
+
+
+
+
+
+
+## 🔧 Skills & Technologies  
+- **Programming Languages:** Python  
+- **Frameworks:** FastAPI, SQLAlchemy  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Tools & Services:** Git, GitHub, Cloudinary, AWS S3, Postman  
+
+---
+
+## 🚀 Projects  
+### 📌 **[Word-Wiz-Bee](https://word-wiz-be-bsws.onrender.com/docs)**  
+_A spelling app designed to improve vocabulary._  
+✅ FastAPI backend with PostgreSQL  
+✅ User authentication & progress tracking  
+✅ Integrated with Cloudinary for media management  
+
+![Word Wiz Bee](images/wordwiz2image34.jpg)  
+
+---
+
+### 📌 **Skillet (Display Your Expertise)**  
+_Professional platform for showcasing projects & skills._  
+✅ Resume showcase  
+✅ Real-time notifications (signup, forgot password)  
+✅ Commenting, filtering & searching  
+
+![Skillet](images/skillet_logo.jpg)  
+
+---
+
+## 💼 Work Experience  
+### 🏢 **Kode-Hauz Solutions**  
+**Backend Developer Intern (Oct 2024 – Jan 2025)**  
+- Built scalable REST APIs using FastAPI  
+- Integrated OAuth & JWT for authentication  
+- Worked with SQLAlchemy & PostgreSQL  
+
+### 🏢 **KodeCamp 4.0**  
+**Backend Developer (May 2024 – Aug 2024)**  
+- Developed **20+ mini-projects** including:  
+  ✅ Multiplication Table Generator  
+  ✅ Random Password Generator  
+  ✅ Profile Picture API  
+
+---
+
+## 📞 Contact  
+📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
+📞 Phone: +234 913 595 3526  
+🔗 [LinkedIn](https://www.linkedin.com/in/duncan-uffang-bbb562304/) | [Twitter](https://x.com/DUffang40559) | [GitHub](https://github.com/duncan532)  
+
+---
+
+> 💡 Want to see my full portfolio? Check out **[My Website](https://your-portfolio-link.com)**  
