@@ -89,7 +89,7 @@ hore me at
 
 
 ---
-### Skills and Technologies
+
 Programming languages:
 - Python
 
