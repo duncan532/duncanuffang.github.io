@@ -98,7 +98,7 @@ WordWiz Bee is a web-based spelling application designed to improve vocabulary a
 - Integrated **game mechanics and quizzes** to make learning interactive  
 - Built a **progress tracking system**, allowing users to monitor their improvement  
 
-🔗 **Live Link**: [WordWiz Bee API Docs](https://dev.wordwiz.kodehauz.dev/)  
+🔗 **Live Link**: [Click Here](https://dev.wordwiz.kodehauz.dev/)  
 
 
 ### 🤝 Collaboration  
@@ -120,20 +120,20 @@ Worked closely with:
 - 📊 **Progress Tracking** – Personalized learning analytics  
 
 
+### 🔥 Skillet – Showcase Your Expertise (In Progress)  
+Skillet is a professional platform designed for users to **highlight their skills, showcase projects, and share experiences**. It enables users to create **personalized profiles**, upload work, and connect with like-minded professionals.  
 
+![imagepath](images/skillet_logo.jpg)  
 
-##### Skillet(display your expertise) in progress
-Skillet is a personal project that i am currently working on,it is a professional platform for users to showcase their projects, skills, and experiences.It allows users to create a personalized profile, upload projects, and share their work with others.
+### ✨ Key Features  
+- 💬 **Commenting** – Engage with project creators  
+- 🔎 **Searching & Filtering** – Find relevant projects with ease  
+- 📂 **Media Upload & Management** – Seamless file handling  
+- 📄 **Resume Showcase** – Display professional experience  
+- 🔔 **Real-time Notifications** – Signup, password recovery, and more  
 
-![imagepath](images/skillet_logo.jpg)
+Skillet is currently **in development**, and will soon be like. New features are being added regularly! 🚀  
 
-**key featutes**:
-- commenting
-- searching
-- filtering and sorting projects
-- media upload and management.
-- Resume showcase
-- Real-time Notifications(signup,forgot password)
 
 
 ##### Kodecamp website
