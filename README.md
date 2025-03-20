@@ -35,28 +35,11 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 - 🔹 **Authentication & security implementation (OAuth, JWT)**
   
 ## 🏗 Tech Stack  
-
 ### 🚀 Frameworks & Libraries  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-4479A1?style=for-the-badge&logo=python)  
-![Beanie](https://img.shields.io/badge/Beanie-MongoDB-green?style=for-the-badge)  
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="50"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Postgresql_elephant.svg" alt="PostgreSQL" width="50"/>  
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" width="50"/>  
 
-### 🗄 Databases  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### ☁️ Cloud Services  
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)  
-
-### 🔍 API Testing  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest)  
-
-### 🔒 Security  
-![OAuth](https://img.shields.io/badge/OAuth-1E1E1E?style=for-the-badge&logo=oauth)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)  
 
 
 
