@@ -18,7 +18,7 @@
 
 ## 📌 Table of Contents  
 1. [About Me](#about-me)  
-2. [Skills & Technologies](#skills-and-technologies)
+2. [Skills & Technologies](#skills-technologies) 
 3. [Work Experience](#work-experience)  
 4. [Projects](#projects)  
 5. [Contact](#contact)  
