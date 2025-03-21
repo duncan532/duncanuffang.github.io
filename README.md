@@ -26,7 +26,7 @@
 ---
 
 ## 📖 About Me  
-I am a **Software Developer** specializing in FastAPI, PostgreSQL, MongoDB, and API security. Passionate about building scalable and efficient backend solutions. I prioritize the security and reliability of every website or mobile app I work on, ensuring that each project achieves its desired impact.
+I am a **Software Developer** specializing in backend development with FastAPI, PostgreSQL, MongoDB, and API security. I’m passionate about building **scalable, efficient, and secure** backend solutions. Every project I work on prioritizes **security, reliability, and real-world impact**.  
 
 ## 🚀 What I Do Best:
 - 🔹 **Fast, secure, and well-documented APIs**  
@@ -87,6 +87,29 @@ I am a **Software Developer** specializing in FastAPI, PostgreSQL, MongoDB, and 
 
 ## 📌 Projects
 
+### 🌐 Kodecamp Website – Informational & Admin Dashboard  
+I collaborated with a team of developers as the backend developer to build an informational website featuring a dynamic admin dashboard. This platform enables administrators to effortlessly update and manage content in real-time, ensuring a seamless and engaging user experience.
+
+![imagepath](images/242716850_126190696426465_6183149075512365490_n.jpg)  
+
+#### ✨ Key Features  
+- 🛠 **Dynamic Admin Dashboard** – Easy content control  
+- 🔄 **Real-time Content Updates** – Instant modifications  
+- 📊 **Content Management System (CMS)** – Organized data handling  
+- 📂 **Media Upload & Management** – Efficient file storage  
+
+🔗 **Live Link**: [Click Here](https://dev.kodecamp.kodehauz.dev/) 
+
+#### 🛠 Tools & Technologies  
+- **FastAPI** – Backend framework  
+- **SQLModel** – Database ORM  
+- **PostgreSQL & SQLite** – Databases (Deployment & Testing)  
+- **Cloudinary** – Media storage  
+- **SMTP Mail Services** – Email notifications  
+- **Git & GitHub** – Version control  
+- **Postman** – API testing  
+
+
 ### 🐝 WordWiz Bee  
 WordWiz Bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
 
@@ -115,11 +138,10 @@ Worked closely with:
 - **SMTP Mail Services** – Email notifications  
 - **Git & GitHub** – Version control  
 
-### 🔥 Key Features  
+###  Key Features  
 - 🎮 **Interactive Games & Quizzes** – Engaging spelling challenges  
 - 🔑 **User Authentication** – Secure login & registration (OAuth, JWT)  
 - 📊 **Progress Tracking** – Personalized learning analytics  
-
 
 
 
@@ -138,29 +160,8 @@ Skillet is a professional platform designed for users to **highlight their skill
 Skillet is currently **in development** and will be live soon. **New features are being added regularly!** 🚀  
 
 
+---
 
-### 🌐 Kodecamp Website – Informational & Admin Dashboard  
-I developed an **informational website** featuring a **dynamic admin dashboard**, allowing seamless control over content management. This platform empowers administrators to **update and manage information in real-time**, ensuring a smooth and engaging user experience.  
-
-![imagepath](images/242716850_126190696426465_6183149075512365490_n.jpg)  
-
-#### ✨ Key Features  
-- 🛠 **Dynamic Admin Dashboard** – Easy content control  
-- 🔄 **Real-time Content Updates** – Instant modifications  
-- 📊 **Content Management System (CMS)** – Organized data handling  
-- 📂 **Media Upload & Management** – Efficient file storage  
-
-🔗 **Live Link**: [Click Here](https://dev.kodecamp.kodehauz.dev/)  
-🔹 *The APIs are not yet live; the link will be posted once available.*  
-
-#### 🛠 Tools & Technologies  
-- **FastAPI** – Backend framework  
-- **SQLModel** – Database ORM  
-- **PostgreSQL & SQLite** – Databases (Deployment & Testing)  
-- **Cloudinary** – Media storage  
-- **SMTP Mail Services** – Email notifications  
-- **Git & GitHub** – Version control  
-- **Postman** – API testing  
 
 
 
