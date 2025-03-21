@@ -21,7 +21,7 @@
 2. [Skills and Technologies](#skills-and-technologies)  
 3. [Work Experience](#work-experience)  
 4. [Projects](#projects)  
-5. [Contact](#Contact)  
+5. [Contact](#contact)  
 
 ---
 
