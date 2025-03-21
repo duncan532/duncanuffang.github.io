@@ -89,6 +89,7 @@ I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and A
 
 ### 🐝 WordWiz Bee  
 WordWiz Bee is a web-based spelling application designed to improve vocabulary and spelling skills. I collaborated with a cross-functional team to deliver an engaging and user-friendly experience.
+
 ![imagepath](images/wordwiz2image34.jpg)
 
 - Developed a **robust backend API** using **FastAPI** and **SQLAlchemy**  
@@ -120,7 +121,7 @@ Worked closely with:
 - 📊 **Progress Tracking** – Personalized learning analytics  
 
 
-### 🔥 Skillet – Showcase Your Expertise (In Progress)  
+### 🔥 Skillet – Showcase Your Expertise (Personal project and In Progress)  
 Skillet is a professional platform designed for users to **highlight their skills, showcase projects, and share experiences**. It enables users to create **personalized profiles**, upload work, and connect with like-minded professionals.  
 
 ![imagepath](images/skillet_logo.jpg)  
@@ -132,7 +133,18 @@ Skillet is a professional platform designed for users to **highlight their skill
 - 📄 **Resume Showcase** – Display professional experience  
 - 🔔 **Real-time Notifications** – Signup, password recovery, and more  
 
-Skillet is currently **in development**, and will soon be like. New features are being added regularly! 🚀  
+Skillet is currently **in development**, and will soon be live. New features are being added regularly! 🚀  
+
+
+
+
+
+
+
+
+
+
+
 
 
 
