@@ -162,7 +162,7 @@ Skillet is currently **in development** and will be live soon. **New features ar
 
 ---
 
-## 📞 Contact  
+## Contact  
 📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
 📞 Phone: +234 913 595 3526  
 🔗 [WhatsApp](https://wa.me/2349135953526) | [LinkedIn](https://www.linkedin.com/in/duncan-uffang-bbb562304/) | [Twitter](https://x.com/DuncanUffang) | [GitHub](https://github.com/duncan532)  
