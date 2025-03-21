@@ -21,11 +21,11 @@
 2. [Skills and Technologies](#skills-and-technologies)  
 3. [Work Experience](#work-experience)  
 4. [Projects](#projects)  
-5. [Contact](#📞 Contact )  
+5. [Contact](#Contact )  
 
 ---
 
-## 📖 About Me  
+## About Me  
 I am a **Software Developer** specializing in backend development with FastAPI, PostgreSQL, MongoDB, and API security. I’m passionate about building **scalable, efficient, and secure** backend solutions. Every project I work on prioritizes **security, reliability, and real-world impact**.  
 
 ## 🚀 What I Do Best:
@@ -36,7 +36,7 @@ I am a **Software Developer** specializing in backend development with FastAPI, 
 
 ---
 
-## 🛠 Skills and Technologies  
+## Skills and Technologies  
 
 ### 💻 Programming Languages  
 - **Python** – Proficient in backend development and API design
@@ -69,7 +69,7 @@ I am a **Software Developer** specializing in backend development with FastAPI, 
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 ### **KodeHauz Solutions Company**  
 *38 Afaha Uqua, Eket, Akwa Ibom, Nigeria*  
 **Backend Developer Intern (Oct 2024 – Jan 2025)**  
@@ -85,7 +85,7 @@ I am a **Software Developer** specializing in backend development with FastAPI, 
 ---
 
 
-## 📌 Projects
+## Projects
 
 ### 🌐 Kodecamp Website – Informational & Admin Dashboard  
 I collaborated with a team of developers as the backend developer to build an informational website featuring a dynamic admin dashboard. This platform enables administrators to effortlessly update and manage content in real-time, ensuring a seamless and engaging user experience.
@@ -162,7 +162,7 @@ Skillet is currently **in development** and will be live soon. **New features ar
 
 ---
 
-## 📞 Contact  
+## Contact  
 📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
 📞 Phone: +234 913 595 3526  
 🔗 [WhatsApp](https://wa.me/2349135953526) | [LinkedIn](https://www.linkedin.com/in/duncan-uffang-bbb562304/) | [Twitter](https://x.com/DuncanUffang) | [GitHub](https://github.com/duncan532)  
