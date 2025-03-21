@@ -162,16 +162,6 @@ Skillet is currently **in development** and will be live soon. **New features ar
 
 ---
 
-### Contact Information
-- phone number: 09135953526
-- email:uffangduncan@gmail.com
-- [linkedin:](https://www.linkedin.com/in/duncan-uffang-bbb562304/)
-- [Twitter](https://x.com/DUffang40559)
-- [Facebook](https://web.facebook.com/profile.php?id=100075996586638)
-
-
----
-
 ## 📞 Contact  
 📧 Email: [uffangduncan@gmail.com](mailto:uffangduncan@gmail.com)  
 📞 Phone: +234 913 595 3526  
