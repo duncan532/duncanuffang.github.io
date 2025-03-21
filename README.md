@@ -26,9 +26,9 @@
 ---
 
 ## 📖 About Me  
-I am a **Backend Developer** specializing in FastAPI, PostgreSQL, MongoDB, and API security. Passionate about building scalable and efficient backend solutions. I prioritize the security and reliability of every website or mobile app I work on, ensuring that each project achieves its desired impact.
+I am a **Software Developer** specializing in FastAPI, PostgreSQL, MongoDB, and API security. Passionate about building scalable and efficient backend solutions. I prioritize the security and reliability of every website or mobile app I work on, ensuring that each project achieves its desired impact.
 
-## 🚀 What I Offer:
+## 🚀 What I Do Best:
 - 🔹 **Fast, secure, and well-documented APIs**  
 - 🔹 **Scalable database architectures**  
 - 🔹 **Cloud-based storage & deployment solutions**  
@@ -121,7 +121,9 @@ Worked closely with:
 - 📊 **Progress Tracking** – Personalized learning analytics  
 
 
-### 🔥 Skillet – Showcase Your Expertise (Personal project and In Progress)  
+
+
+### 🔥 Skillet – Showcase Your Expertise (Personal Project - In Progress)  
 Skillet is a professional platform designed for users to **highlight their skills, showcase projects, and share experiences**. It enables users to create **personalized profiles**, upload work, and connect with like-minded professionals.  
 
 ![imagepath](images/skillet_logo.jpg)  
@@ -133,7 +135,32 @@ Skillet is a professional platform designed for users to **highlight their skill
 - 📄 **Resume Showcase** – Display professional experience  
 - 🔔 **Real-time Notifications** – Signup, password recovery, and more  
 
-Skillet is currently **in development**, and will soon be live. New features are being added regularly! 🚀  
+Skillet is currently **in development** and will be live soon. **New features are being added regularly!** 🚀  
+
+
+
+### 🌐 Kodecamp Website – Informational & Admin Dashboard  
+I developed an **informational website** featuring a **dynamic admin dashboard**, allowing seamless control over content management. This platform empowers administrators to **update and manage information in real-time**, ensuring a smooth and engaging user experience.  
+
+![imagepath](images/242716850_126190696426465_6183149075512365490_n.jpg)  
+
+#### ✨ Key Features  
+- 🛠 **Dynamic Admin Dashboard** – Easy content control  
+- 🔄 **Real-time Content Updates** – Instant modifications  
+- 📊 **Content Management System (CMS)** – Organized data handling  
+- 📂 **Media Upload & Management** – Efficient file storage  
+
+🔗 **Live Link**: [Click Here](https://dev.kodecamp.kodehauz.dev/)  
+🔹 *The APIs are not yet live; the link will be posted once available.*  
+
+#### 🛠 Tools & Technologies  
+- **FastAPI** – Backend framework  
+- **SQLModel** – Database ORM  
+- **PostgreSQL & SQLite** – Databases (Deployment & Testing)  
+- **Cloudinary** – Media storage  
+- **SMTP Mail Services** – Email notifications  
+- **Git & GitHub** – Version control  
+- **Postman** – API testing  
 
 
 
@@ -144,34 +171,6 @@ Skillet is currently **in development**, and will soon be live. New features are
 
 
 
-
-
-
-
-##### Kodecamp website
-I developed an informational website with a dynamic admin dashboard, enabling seamless control over information display. This robust platform allows administrators to effortlessly manage and update content in real-time, ensuring an engaging user experience.
-
-![imagepath](images/242716850_126190696426465_6183149075512365490_n.jpg)
-
-**key featutes**:
-- Dynamic Admin Dashboard
-- Real-time Content Updates
-- Content Management System (CMS)
-- media upload and management.
-- earch Engine Optimization (SEO)
--the apis are not yet live and the link will be posted as soon as possible
-
-
-
-**Tools/Softwares used**: 
-- fastapi
-- cloudinary
-- smtp_mail_services
-- git/github
-- sqlite(for testing)
-- postman(for testing)
-- postgresql(during deployment)
-- sqlalchemy and others.
 
 ### Contact Information
 - phone number: 09135953526
