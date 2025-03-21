@@ -17,11 +17,11 @@
 ---
 
 ## 📌 Table of Contents  
-1. [About Me](#📖-about-me)  
-2. [Skills and Technologies](#🛠-skills-and-technologies)  
-3. [Work Experience](#💼-work-experience)  
-4. [Projects](#📌-projects)  
-5. [Contact](#📞-contact)  
+1. [About Me](#about-me)  
+2. [Skills and Technologies](#skills-and-technologies)  
+3. [Work Experience](#work-experience)  
+4. [Projects](#projects)  
+5. [Contact](#contact)  
 
 ---
 
