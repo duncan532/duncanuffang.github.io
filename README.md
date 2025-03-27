@@ -159,6 +159,7 @@ A robust backend template built with **FastAPI** and **MongoDB (Beanie ODM)**. D
 - ⚙️ **Background Task Processing** – Celery for async job execution  
 
 **New features are being added regularly!** 🚀  
+**If you need this template or a custom backend solution, feel free to reach out!** 🚀  
 
 
 ---
