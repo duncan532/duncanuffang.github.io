@@ -145,19 +145,20 @@ Worked closely with:
 
 
 
-### Skillet – Showcase Your Expertise (Personal Project - In Progress)  
-Skillet is a professional platform designed for users to **highlight their skills, showcase projects, and share experiences**. It enables users to create **personalized profiles**, upload work, and connect with like-minded professionals.  
+### TechD FastAPI MongoDB Template (Personal Project)  
+A robust backend template built with **FastAPI** and **MongoDB (Beanie ODM)**. Designed for developers to **manage users, handle authentication, process background tasks, and integrate real-time features**. This template serves as a **quick plugin**, saving time and eliminating the need for setting up initial development processes and APIs from scratch.  
+
 
 ![imagepath](images/skillet_logo.jpg)  
 
 ### ✨ Key Features  
-- 💬 **Commenting** – Engage with project creators  
-- 🔎 **Searching & Filtering** – Find relevant projects with ease  
-- 📂 **Media Upload & Management** – Seamless file handling  
-- 📄 **Resume Showcase** – Display professional experience  
-- 🔔 **Real-time Notifications** – Signup, password recovery, and more  
+- 🚀 **FastAPI-Powered Backend** – High-performance API with async support  
+- 📦 **MongoDB & Beanie ODM** – Flexible, schema-based NoSQL database management  
+- 🔐 **Authentication & Security** – JWT, OAuth, and role-based access control  
+- 📡 **Real-time Support** – WebSockets & Server-Sent Events (SSE) integration  
+- ⚙️ **Background Task Processing** – Celery for async job execution  
 
-Skillet is currently **in development** and will be live soon. **New features are being added regularly!** 🚀  
+**New features are being added regularly!** 🚀  
 
 
 ---
